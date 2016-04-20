@@ -1,0 +1,6 @@
+framework module KITAssetsPickerController {
+  umbrella header "KITAssetsPickerController-umbrella.h"
+
+  export *
+  module * { export * }
+}

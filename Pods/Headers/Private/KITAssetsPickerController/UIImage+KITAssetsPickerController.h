@@ -1,0 +1,1 @@
+../../../KITAssetsPickerController/KITAssetsPickerController/Categories/UIImage+KITAssetsPickerController.h

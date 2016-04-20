@@ -1,0 +1,1 @@
+../../../KITAssetsPickerController/KITAssetsPickerController/KITAssetsPickerAccessDeniedView.h

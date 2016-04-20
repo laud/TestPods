@@ -1,0 +1,6 @@
+framework module MPFlipViewController {
+  umbrella header "MPFlipViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}
